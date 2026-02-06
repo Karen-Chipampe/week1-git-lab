@@ -1,3 +1,3 @@
 Group Members:
--faithnswana01
--Karen-Chipampe
+- faithnswana01
+- Karen-Chipampe
